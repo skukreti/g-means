@@ -28,7 +28,7 @@ BestFit.png shows the SSE plot vs number of clusters for k-means. The error rate
 AlphaVsFit.png shows the k values with different values of alpha:
 
 | alpha  |  k  |
-----------------
+|--------|-----|
 | 0.0050 |  35 |
 | 0.0010 |  28 |
 | 0.0001 |  17 |
